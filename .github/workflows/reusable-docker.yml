@@ -1,4 +1,4 @@
-# Builds the batchee Docker image on PRs and pushes.
+# Builds the Docker image on PRs and pushes.
 name: Reusable docker workflow
 
 on:
